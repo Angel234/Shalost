@@ -1,0 +1,12 @@
+.header {
+
+}
+
+.header > img {
+
+}
+.header__menu  {
+	font-family: Arial, sans serif;
+	font-size: 20px;
+	text-transform: uppercase;
+}
